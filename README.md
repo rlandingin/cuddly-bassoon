@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rlandingin/cuddly-bassoon/HEAD?urlpath=%2Fvoila%2Frender%2Fbuild-your-own-image-classifier.ipynb)
+
 # build-your-own-image-classifier-binder-app-template
 This is a template github project for building your binder app based on the article [Build (and Run!) Your Image Classifier using Colab, Binder, Github and Google Drive](https://butchland.github.io/butchland-machine-learning-notes/machine%20learning/2020/10/05/byoic-on-colab-part2.html). This template is based on the [instructions posted on the fastai forums here](https://forums.fast.ai/t/deploying-your-notebook-as-an-app-under-10-minutes/70621?u=butchland).
 
